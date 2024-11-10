@@ -4,16 +4,16 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '93730285765'
-global.nomerowner = ["93730285765"]
+global.owner = '2250100113543'
+global.nomerowner = ["2250100113543"]
 
 // Apikey 
 
 global.skizo = 'NOTHING'
 global.casterix = 'BEN_BOT-V1'
 //watermark 
-global.packname = '*NOTHING*'
-global.author = 'BEN_BOT-V1'
+global.packname = '*Devilus*'
+global.author = 'Diwate'
 
 // cpanel 
 global.domain = 'https://'
@@ -65,12 +65,12 @@ global.available = false;
 global.autoreadmessages = false;   
 ///To always read messages
 global.chatbot = false;
-global.autoreact = false;
+global.autoreact = true;
 
 global.prefix = '.';
 
 
-global.welcome = false;
+global.welcome = true;
 
 global.autobio = false;
 
